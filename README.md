@@ -8,9 +8,15 @@
 ###  Aprovação
 <img src="compIjecao.png" alt="componente">
 
+## ☕ Módulo 2 DESAFIO Modelo de domínio e ORM
+(https://github.com/gilcecler/bds/tree/orm-desafio)
+
+## ☕ Módulo 3 DESAFIO CRUD de clientes API/Rest
+(https://github.com/gilcecler/bds/tree/desafio-api-rest)
 
 ## ☕ Módulo 4 DESAFIO Consulta vendas Spring JPA
 (https://github.com/gilcecler/desafio-consulta-vendas)
+
 ## ☕ Módulo 5 DESAFIO Projeto Spring Boot estruturado
 (https://github.com/gilcecler/dscommerce)
 
