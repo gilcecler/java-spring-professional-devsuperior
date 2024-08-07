@@ -57,7 +57,7 @@ Para contribuir com <nome_do_projeto>, siga estas etapas:
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 5. Crie a solicitação de pull.
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://gilcecler.github.io/bds/01 DESAFIO Componentes e injeção de dependência.pdf).
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://gilcecler.github.io/bds/desafio01.pdf).
 
 ## 🤝 Colaboradores
 
