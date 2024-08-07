@@ -1,6 +1,6 @@
-# Desafio do Módulo 1 do Spring Profissional 
+# Desafio do Módulo 2 do Spring Profissional 
 
-###  Componentes e injeção de dependência
+###  ORM
 
 ## ☕ Regras para o Desafio
 (https://github.com/gilcecler/bds/blob/orm-desafio/desafio02-orm.pdf)
