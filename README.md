@@ -20,5 +20,6 @@
 ## ☕ Módulo 5 DESAFIO Projeto Spring Boot estruturado
 (https://github.com/gilcecler/dscommerce)
 
-
-
+# Exercícios  Spring Expert
+## ☕Testes junit sem o spring boot
+https://github.com/gilcecler/teste-junit-vanilla
