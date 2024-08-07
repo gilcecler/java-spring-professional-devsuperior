@@ -1,14 +1,7 @@
-# Nome do projeto
+# Desafio do Módulo 1 do Spring Profissional - Componentes e injeção de dependênciaNome do projeto
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
-
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+<img src="compIjecao.png" alt="componente">
 
 ### Ajustes e melhorias
 
@@ -64,7 +57,7 @@ Para contribuir com <nome_do_projeto>, siga estas etapas:
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 5. Crie a solicitação de pull.
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://gilcecler.github.io/bds/01 DESAFIO Componentes e injeção de dependência.pdf).
 
 ## 🤝 Colaboradores
 
