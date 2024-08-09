@@ -23,3 +23,10 @@
 # Exercícios  Spring Expert
 ## ☕Testes junit sem o spring boot
 https://github.com/gilcecler/teste-junit-vanilla
+
+## ☕ Projeto resultado das aulas e
+# exercícios do módulo 02 - testes 
+https://github.com/gilcecler/dscatalog-testes
+
+
+
