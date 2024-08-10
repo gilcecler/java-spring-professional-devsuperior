@@ -22,38 +22,38 @@
 
 ## ☕  Spring Expert
 
-#Testes automatizados no back end
-Pré-requisitos
-●	Back end DSCatalog (capítulo 1) 
-Competências
-●	Fundamentos de testes automatizados
-○	Tipos de testes
-○	Benefícios
-○	TDD - Test Driven Development
-○	Boas práticas e padrões
-●	JUnit
-○	Básico (vanilla)
-○	Spring Boot
-■	Repositories
-■	Services
-■	Resources (web)
-■	Integração
-●	Mockito & MockBean
-○	@Mock
-○	@InjectMocks
-○	Mockito.when / thenReturn / doNothing / doThrow
-○	ArgumentMatchers
-○	Mockito.verify
-○	@MockBean
-○	@MockMvc
-Etapas
-●	Fundamentos + JUnit vanilla (exercício de fixação)
-●	Testes de repository (exercício de fixação)
-●	Testes de unidade com Mockito (exercício de fixação)
-●	Testes da camada web com MockMvc (exercício de fixação)
-●	Testes de integração
-●	Desafio TDD (desafio final para entregar)
-
+## Testes automatizados no back end
+    Pré-requisitos
+    ●	Back end DSCatalog (capítulo 1) 
+    Competências
+      ●	Fundamentos de testes automatizados
+      ○	Tipos de testes
+      ○	Benefícios
+      ○	TDD - Test Driven Development
+      ○	Boas práticas e padrões
+      ●	JUnit
+      ○	Básico (vanilla)
+      ○	Spring Boot
+      ■	Repositories
+      ■	Services
+      ■	Resources (web)
+      ■	Integração
+      ●	Mockito & MockBean
+      ○	@Mock
+      ○	@InjectMocks
+      ○	Mockito.when / thenReturn / doNothing / doThrow
+      ○	ArgumentMatchers
+      ○	Mockito.verify
+      ○	@MockBean
+      ○	@MockMvc
+    Etapas
+    ●	Fundamentos + JUnit vanilla (exercício de fixação)
+    ●	Testes de repository (exercício de fixação)
+    ●	Testes de unidade com Mockito (exercício de fixação)
+    ●	Testes da camada web com MockMvc (exercício de fixação)
+    ●	Testes de integração
+    ●	Desafio TDD (desafio final para entregar)
+    
 
 
 
