@@ -53,16 +53,7 @@
     ●	Testes da camada web com MockMvc (exercício de fixação)
     ●	Testes de integração
     ●	Desafio TDD (desafio final para entregar)
-    
-
-
-
-
-
-
-
-
-
+  
 
 ## ☕Testes junit sem o spring boot
 https://github.com/gilcecler/teste-junit-vanilla
@@ -73,4 +64,10 @@ https://github.com/gilcecler/dscatalog-testes
 
 ## ☕ Aula e exercicio TDD
 https://github.com/gilcecler/tdd-employee/tree/main
+
+## ☕ Módulo 2 DESAFIO TDD 
+(https://github.com/gilcecler/desafio-tdd-bds)
+
+
+
 
