@@ -70,3 +70,7 @@ https://github.com/gilcecler/tdd-employee/tree/main
 
 ## ☕ Módulo 3 Validação e Segurança
 (https://github.com/gilcecler/dscatalog-cap3-desafio-seg-valid-entrega/tree/main)
+
+## ☕ Módulo 4 Casos de Uso - SignUp - Envio Email
+(https://github.com/gilcecler/movieflix)
+https://github.com/gilcecler/movieflix
