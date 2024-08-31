@@ -68,6 +68,5 @@ https://github.com/gilcecler/tdd-employee/tree/main
 ## ☕ Módulo 2 DESAFIO TDD 
 (https://github.com/gilcecler/desafio-tdd-bds)
 
-
-
-
+## ☕ Módulo 3 Validação e Segurança
+(https://github.com/gilcecler/dscatalog-cap3-desafio-seg-valid-entrega/tree/main)
