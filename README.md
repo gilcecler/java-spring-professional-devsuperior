@@ -50,7 +50,7 @@ Primeiro desafio da formação, trabalhando conceitos de componentes,
 serviços e injeção de dependência com Spring.
 
 📂 Branch:
-[desafio1](https://github.com/gilcecler/bds/tree/desafio1)
+[desafio1](https://github.com/gilcecler/gilcecler/java-spring-professional-devsuperior/tree/desafio1)
 
 ---
 
@@ -60,7 +60,7 @@ Desafio dedicado à implementação de um modelo de domínio e seu
 mapeamento objeto-relacional utilizando JPA/Hibernate.
 
 📂 Branch:
-[orm-desafio](https://github.com/gilcecler/bds/tree/orm-desafio)
+[orm-desafio](https://github.com/gilcecler/gilcecler/java-spring-professional-devsuperior/tree/orm-desafio)
 
 ---
 
@@ -70,7 +70,7 @@ Implementação de uma API REST com operações CRUD, aplicando a organização
 em camadas típica de uma aplicação Spring Boot.
 
 📂 Branch:
-[desafio-api-rest](https://github.com/gilcecler/bds/tree/desafio-api-rest)
+[desafio-api-rest](https://github.com/gilcecler/gilcecler/java-spring-professional-devsuperior/tree/desafio-api-rest)
 
 ---
 
