@@ -1,76 +1,223 @@
-# DESAFIOS  Spring Profissional 
+# Java Spring Professional — DevSuperior
 
-###  Módulo 1 Componentes e injeção de dependência
+Portfólio de projetos, desafios e exercícios desenvolvidos durante minha
+formação em **Java e Spring Boot pela DevSuperior**.
 
-## ☕ Regras para o Desafio
-(https://github.com/gilcecler/bds/blob/desafio1/desafio01.pdf)
+Este repositório funciona como um índice da minha trajetória prática durante
+a formação, reunindo implementações relacionadas a desenvolvimento backend,
+modelagem de domínio, persistência, APIs REST, testes automatizados,
+validação e segurança.
 
-###  Aprovação
-<img src="compIjecao.png" alt="componente">
+> Os projetos e desafios foram desenvolvidos a partir das especificações e
+> atividades propostas pela DevSuperior durante a formação.
 
-## ☕ Módulo 2 DESAFIO Modelo de domínio e ORM
-(https://github.com/gilcecler/bds/tree/orm-desafio)
+---
 
-## ☕ Módulo 3 DESAFIO CRUD de clientes API/Rest
-(https://github.com/gilcecler/bds/tree/desafio-api-rest)
+## Formação
 
-## ☕ Módulo 4 DESAFIO Consulta vendas Spring JPA
-(https://github.com/gilcecler/desafio-consulta-vendas)
+**Java Spring Professional — DevSuperior**
 
-## ☕ Módulo 5 DESAFIO Projeto Spring Boot estruturado
-(https://github.com/gilcecler/dscommerce)
+Durante a formação foram trabalhados conceitos fundamentais e avançados
+para desenvolvimento backend com Java e Spring, incluindo:
 
-## ☕  Spring Expert
+- Java e programação orientada a objetos
+- Spring Boot
+- Injeção de dependência
+- Modelagem de domínio
+- JPA / Hibernate
+- Spring Data JPA
+- APIs REST
+- SQL e JPQL
+- Arquitetura em camadas
+- DTOs
+- Validação
+- Tratamento de exceções
+- Spring Security
+- OAuth2 / JWT
+- Testes automatizados
+- JUnit
+- Mockito
+- MockMvc
+- TDD
 
-## Testes automatizados no back end
-    Pré-requisitos
-    ●	Back end DSCatalog (capítulo 1) 
-    Competências
-      ●	Fundamentos de testes automatizados
-      ○	Tipos de testes
-      ○	Benefícios
-      ○	TDD - Test Driven Development
-      ○	Boas práticas e padrões
-      ●	JUnit
-      ○	Básico (vanilla)
-      ○	Spring Boot
-      ■	Repositories
-      ■	Services
-      ■	Resources (web)
-      ■	Integração
-      ●	Mockito & MockBean
-      ○	@Mock
-      ○	@InjectMocks
-      ○	Mockito.when / thenReturn / doNothing / doThrow
-      ○	ArgumentMatchers
-      ○	Mockito.verify
-      ○	@MockBean
-      ○	@MockMvc
-    Etapas
-    ●	Fundamentos + JUnit vanilla (exercício de fixação)
-    ●	Testes de repository (exercício de fixação)
-    ●	Testes de unidade com Mockito (exercício de fixação)
-    ●	Testes da camada web com MockMvc (exercício de fixação)
-    ●	Testes de integração
-    ●	Desafio TDD (desafio final para entregar)
-  
+---
 
-## ☕Testes junit sem o spring boot
-https://github.com/gilcecler/teste-junit-vanilla
+# Projetos e desafios
 
-## ☕ Projeto resultado das aulas e
-# exercícios do módulo 02 - testes 
-https://github.com/gilcecler/dscatalog-testes
+## 1. Componentes e Injeção de Dependência
 
-## ☕ Aula e exercicio TDD
-https://github.com/gilcecler/tdd-employee/tree/main
+Primeiro desafio da formação, trabalhando conceitos de componentes,
+serviços e injeção de dependência com Spring.
 
-## ☕ Módulo 2 DESAFIO TDD 
-(https://github.com/gilcecler/desafio-tdd-bds)
+📂 Branch:
+[desafio1](https://github.com/gilcecler/bds/tree/desafio1)
 
-## ☕ Módulo 3 Validação e Segurança
-(https://github.com/gilcecler/dscatalog-cap3-desafio-seg-valid-entrega/tree/main)
+---
 
-## ☕ Módulo 4 Casos de Uso - SignUp - Envio Email
-(https://github.com/gilcecler/movieflix)
+## 2. Modelo de Domínio e ORM
 
+Desafio dedicado à implementação de um modelo de domínio e seu
+mapeamento objeto-relacional utilizando JPA/Hibernate.
+
+📂 Branch:
+[orm-desafio](https://github.com/gilcecler/bds/tree/orm-desafio)
+
+---
+
+## 3. CRUD de Clientes — API REST
+
+Implementação de uma API REST com operações CRUD, aplicando a organização
+em camadas típica de uma aplicação Spring Boot.
+
+📂 Branch:
+[desafio-api-rest](https://github.com/gilcecler/bds/tree/desafio-api-rest)
+
+---
+
+## 4. Consultas com Spring Data JPA
+
+Desafio voltado à implementação de consultas e acesso a dados utilizando
+Spring Data JPA.
+
+📂 Repositório:
+[desafio-consulta-vendas](https://github.com/gilcecler/desafio-consulta-vendas)
+
+---
+
+## 5. DSCommerce — Projeto Spring Boot Estruturado
+
+Projeto backend de comércio eletrônico utilizado para integrar vários dos
+conceitos estudados anteriormente em uma aplicação Spring Boot estruturada.
+
+Entre os conceitos aplicados estão:
+
+- API REST
+- arquitetura em camadas
+- modelo de domínio
+- DTOs
+- JPA / Hibernate
+- validação
+- tratamento de exceções
+- Spring Security
+- OAuth2
+
+📂 Repositório:
+[DSCommerce](https://github.com/gilcecler/dscommerce)
+
+---
+
+# Testes Automatizados
+
+A formação também incluiu uma etapa específica de testes automatizados
+no backend.
+
+Entre os assuntos praticados:
+
+- fundamentos de testes automatizados
+- testes unitários
+- testes de integração
+- JUnit
+- Mockito
+- MockBean
+- MockMvc
+- testes de Repository
+- testes de Service
+- testes da camada Web
+- TDD — Test Driven Development
+
+## JUnit sem Spring Boot
+
+Exercícios para praticar testes unitários com JUnit independentemente
+do contexto do Spring.
+
+📂 Repositório:
+[teste-junit-vanilla](https://github.com/gilcecler/teste-junit-vanilla)
+
+---
+
+## DSCatalog — Testes
+
+Projeto utilizado para implementação de testes das diferentes camadas
+da aplicação.
+
+📂 Repositório:
+[dscatalog-testes](https://github.com/gilcecler/dscatalog-testes)
+
+---
+
+## Exercício TDD
+
+Exercício prático utilizando Test Driven Development.
+
+📂 Repositório:
+[tdd-employee](https://github.com/gilcecler/tdd-employee)
+
+---
+
+## Desafio TDD
+
+Desafio final relacionado ao módulo de testes e TDD.
+
+📂 Repositório:
+[desafio-tdd-bds](https://github.com/gilcecler/desafio-tdd-bds)
+
+---
+
+# Validação e Segurança
+
+Projeto/desafio envolvendo validação de dados e segurança em uma
+aplicação Spring Boot.
+
+📂 Repositório:
+[dscatalog-cap3-desafio-seg-valid-entrega](https://github.com/gilcecler/dscatalog-cap3-desafio-seg-valid-entrega)
+
+---
+
+# Casos de Uso — MovieFlix
+
+Projeto relacionado à implementação de casos de uso da aplicação,
+incluindo funcionalidades como cadastro e envio de e-mail.
+
+📂 Repositório:
+[movieflix](https://github.com/gilcecler/movieflix)
+
+---
+
+# Principais competências praticadas
+
+| Área | Tecnologias / Conceitos |
+|---|---|
+| Linguagem | Java |
+| Framework | Spring Boot |
+| Persistência | JPA, Hibernate, Spring Data JPA |
+| APIs | REST |
+| Banco de dados | SQL, JPQL |
+| Arquitetura | Camadas, DTOs, separação de responsabilidades |
+| Segurança | Spring Security, OAuth2, JWT |
+| Testes | JUnit, Mockito, MockMvc |
+| Metodologia | TDD |
+| Domínio | Modelagem de domínio e ORM |
+
+---
+
+# Sobre este portfólio
+
+Estes projetos representam atividades práticas realizadas durante minha
+formação Java/Spring na **DevSuperior**.
+
+O objetivo deste repositório é preservar e organizar essa trajetória,
+demonstrando a evolução desde os fundamentos do Spring até APIs REST,
+persistência com JPA/Hibernate, segurança e testes automatizados.
+
+Atualmente continuo aprofundando meus conhecimentos em Java/Spring,
+arquitetura de software e desenvolvimento de sistemas corporativos.
+
+---
+
+## Autor
+
+**Gilcecler Carneiro**
+
+Desenvolvedor Java/Spring Boot | Analista de Sistemas
+
+GitHub: https://github.com/gilcecler
